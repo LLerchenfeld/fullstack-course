@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+#nav-list > li {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+div section {
+    margin: 10px;
+    padding: 10px;
+}
+
+#section-1 {    /* Chicken */
+    background-color: beige;
+}
+
+#section-2 {    /* Beef */
+    background-color: brown;
+}
+
+#section-3 {    /* Sushi */
+    background-color: green;
+}
+
+#text > h3 {
+    margin-bottom: 15px;
+}
+
+#header-nav .navbar-brand {
+    position: absolute;
+    left: 10px;
+}
